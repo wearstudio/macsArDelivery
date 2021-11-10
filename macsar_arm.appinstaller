@@ -1,19 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
 	Uri="https://wearstudio.github.io/macsArDelivery/macsar_arm.appinstaller"
-	Version="1.3.1.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+	Version="1.3.2.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
 	<MainPackage
 		Name="macsar"
-		Version="1.3.1.0"
+		Version="1.3.2.0"
 		Publisher="CN=Dunno"
-		Uri="https://wearstudio.github.io/macsArDelivery/macsar_1.3.1.0_ARM_Test/macsar_1.3.1.0_ARM.msix"
+		Uri="https://wearstudio.github.io/macsArDelivery/macsar_1.3.2.0_ARM_Test/macsar_1.3.2.0_ARM.msix"
 		ProcessorArchitecture="arm" />
 	<Dependencies>
 		<Package
 			Name="Microsoft.VCLibs.140.00"
 			Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
 			ProcessorArchitecture="arm"
-			Uri="https://wearstudio.github.io/macsArDelivery/macsar_1.3.1.0_ARM_Test/Dependencies/ARM/Microsoft.VCLibs.ARM.14.00.appx"
+			Uri="https://wearstudio.github.io/macsArDelivery/macsar_1.3.2.0_ARM_Test/Dependencies/ARM/Microsoft.VCLibs.ARM.14.00.appx"
 			Version="14.0.30035.0" />
 	</Dependencies>
 	<UpdateSettings>
